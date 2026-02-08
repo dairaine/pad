@@ -55,7 +55,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/pad.png-128x128.png",
-    "mbrsiteDomain": "onfiyna64n",
+    "mbrsiteDomain": "6qaeamxibc",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -69,7 +69,8 @@
     "chatbutton": {},
     "cssOptimize": true,
     "lazyLoad": true,
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
