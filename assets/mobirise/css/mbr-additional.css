@@ -2526,6 +2526,49 @@ a {
 .cid-uKrxg9FROb .mbr-section-btn {
   text-align: center;
 }
+.cid-vcpZop5wvB {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/capture20de28099ecc81cran202026-02-2720acc802010.39.40-1440x807.png");
+}
+.cid-vcpZop5wvB .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vcpZop5wvB .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vcpZop5wvB .container-fluid {
+  padding: 0 120px;
+}
+@media (max-width: 768px) {
+  .cid-vcpZop5wvB .container-fluid {
+    padding: 0 26px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-vcpZop5wvB .container {
+    padding: 0 26px;
+  }
+}
+.cid-vcpZop5wvB .title-wrapper .mbr-section-title {
+  margin-bottom: 0;
+}
+.cid-vcpZop5wvB .title-wrapper .mbr-section-btn {
+  margin-top: 50px;
+}
+.cid-vcpZop5wvB .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vcpZop5wvB .mbr-section-title,
+.cid-vcpZop5wvB .mbr-section-btn {
+  text-align: center;
+}
 .cid-uKwpZbfToI {
   padding-top: 5rem;
   padding-bottom: 5rem;
